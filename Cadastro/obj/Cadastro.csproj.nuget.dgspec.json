@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dev4jobs7\\source\\repos\\Cadastro\\Cadastro\\Cadastro.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dev4jobs7\\source\\repos\\Cadastro\\Cadastro\\Cadastro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dev4jobs7\\source\\repos\\Cadastro\\Cadastro\\Cadastro.csproj",
+        "projectName": "Cadastro",
+        "projectPath": "C:\\Users\\Dev4jobs7\\source\\repos\\Cadastro\\Cadastro\\Cadastro.csproj",
+        "packagesPath": "C:\\Users\\Dev4jobs7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dev4jobs7\\source\\repos\\Cadastro\\Cadastro\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dev4jobs7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
