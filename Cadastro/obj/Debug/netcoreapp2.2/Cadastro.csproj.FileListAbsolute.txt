@@ -1,0 +1,11 @@
+C:\Users\Dev4jobs7\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp2.2\Cadastro.deps.json
+C:\Users\Dev4jobs7\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp2.2\Cadastro.runtimeconfig.json
+C:\Users\Dev4jobs7\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp2.2\Cadastro.runtimeconfig.dev.json
+C:\Users\Dev4jobs7\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp2.2\Cadastro.dll
+C:\Users\Dev4jobs7\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp2.2\Cadastro.pdb
+C:\Users\Dev4jobs7\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp2.2\Cadastro.csprojAssemblyReference.cache
+C:\Users\Dev4jobs7\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp2.2\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Dev4jobs7\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp2.2\Cadastro.AssemblyInfoInputs.cache
+C:\Users\Dev4jobs7\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp2.2\Cadastro.AssemblyInfo.cs
+C:\Users\Dev4jobs7\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp2.2\Cadastro.dll
+C:\Users\Dev4jobs7\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp2.2\Cadastro.pdb
