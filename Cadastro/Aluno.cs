@@ -46,7 +46,7 @@ namespace Cadastro{
 
         //Esse método verifica se o Aluno é bolsista
         public bool Bolsista(string bolsa){
-            while (bolsa.ToUpper() != "S" && bolsa.ToUpper() != "N")
+            if(bolsa.ToUpper() != "S" && bolsa.ToUpper() != "N")
                 return false;
             return true;
         }
